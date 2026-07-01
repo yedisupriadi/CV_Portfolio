@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#20202c"/>
+      <stop offset="1" stop-color="#14141c"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d9a441"/>
+      <stop offset="1" stop-color="#7c5cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <circle cx="400" cy="380" r="150" fill="url(#ac)" opacity="0.9"/>
+  <text x="400" y="430" font-family="Sora, sans-serif" font-size="140" font-weight="800"
+        text-anchor="middle" fill="#0d0d12">YS</text>
+  <path d="M400 560 C 250 560 170 680 170 840 L 630 840 C 630 680 550 560 400 560 Z" fill="url(#ac)" opacity="0.85"/>
+  <text x="400" y="920" font-family="Inter, sans-serif" font-size="30" font-weight="600"
+        text-anchor="middle" fill="#9a9aab">Foto Profil — ganti dengan foto asli</text>
+</svg>
