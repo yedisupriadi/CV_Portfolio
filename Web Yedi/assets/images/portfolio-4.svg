@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e0736b"/>
+      <stop offset="1" stop-color="#b8463d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="#191922"/>
+  <rect width="1200" height="900" fill="url(#g4)" opacity="0.16"/>
+  <circle cx="960" cy="200" r="230" fill="url(#g4)" opacity="0.55"/>
+  <circle cx="240" cy="760" r="180" fill="url(#g4)" opacity="0.35"/>
+  <text x="60" y="470" font-family="Sora, sans-serif" font-size="80" font-weight="800" fill="#ececf2">04</text>
+  <text x="60" y="540" font-family="Sora, sans-serif" font-size="46" font-weight="700" fill="url(#g4)">Potret</text>
+  <text x="60" y="600" font-family="Inter, sans-serif" font-size="26" fill="#9a9aab">Placeholder — ganti dengan foto portfolio asli</text>
+</svg>
